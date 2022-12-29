@@ -1,0 +1,3 @@
+0 Eyes Open
+1 Eyes Closed
+2 Error
